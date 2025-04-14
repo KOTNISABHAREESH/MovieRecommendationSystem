@@ -1,0 +1,501 @@
+movieId,title,genres
+1,Baahubali: The Beginning (2015),Action|Drama|Fantasy
+2,Baahubali 2: The Conclusion (2017),Action|Drama|Fantasy
+3,RRR (2022),Action|Drama
+4,Pushpa: The Rise - Part 1 (2021),Action|Crime|Drama|Thriller
+5,K.G.F: Chapter 1 (2018),Action|Crime|Drama
+6,K.G.F: Chapter 2 (2022),Action|Crime|Drama
+7,Arjun Reddy (2017),Drama|Romance
+8,Magadheera (2009),Action|Drama|Fantasy|Romance
+9,Eega (2012),Fantasy|Thriller
+10,Athadu (2005),Action|Thriller
+11,Pokiri (2006),Action|Crime|Thriller
+12,Businessman (2012),Action|Crime|Drama
+13,Srimanthudu (2015),Action|Drama
+14,Bharat Ane Nenu (2018),Action|Drama|Political
+15,Ala Vaikunthapurramuloo (2020),Action|Comedy|Drama
+16,Jersey (2019),Drama|Sport
+17,Fidaa (2017),Comedy|Drama|Romance
+18,Geetha Govindam (2018),Comedy|Romance
+19,Dear Comrade (2019),Action|Drama|Romance
+20,Mahanati (2018),Biography|Drama
+21,Oh! Baby (2019),Comedy|Fantasy
+22,Agent Sai Srinivasa Athreya (2019),Comedy|Mystery|Thriller
+23,Major (2022),Action|Biography|Drama
+24,Karthikeya (2014),Mystery|Thriller
+25,Karthikeya 2 (2022),Adventure|Mystery|Thriller
+26,Chatrapathi (2005),Action|Drama
+27,Mirchi (2013),Action|Drama|Romance
+28,Julayi (2012),Action|Comedy
+29,Dookudu (2011),Action|Comedy
+30,Temper (2015),Action|Drama
+31,Nannaku Prematho (2016),Action|Thriller
+32,Aravinda Sametha Veera Raghava (2018),Action|Drama
+33,Sarrainodu (2016),Action|Drama
+34,Ghajini (2005),Action|Mystery|Thriller
+35,Arya (2004),Action|Comedy|Romance
+36,Arya 2 (2009),Action|Comedy|Romance
+37,Varsham (2004),Action|Romance
+38,Bommarillu (2006),Comedy|Drama|Family|Romance
+39,Happy Days (2007),Comedy|Drama|Musical|Romance
+40,Leader (2010),Drama|Political|Thriller
+41,Vedam (2010),Action|Drama
+42,Maryada Ramanna (2010),Comedy|Thriller
+43,Andala Rakshasi (2012),Drama|Romance
+44,Life Is Beautiful (2012),Comedy|Drama|Family
+45,Manam (2014),Drama|Fantasy|Family
+46,Pelli Choopulu (2016),Comedy|Romance
+47,F2: Fun and Frustration (2019),Comedy
+48,Venky Mama (2019),Action|Comedy|Drama
+49,Krack (2021),Action|Thriller
+50,Bheemla Nayak (2022),Action|Drama|Thriller
+51,Nuvvu Naaku Nachav (2001),Comedy|Romance
+52,Okkadu (2003),Action|Romance|Sport
+53,Mallishwari (2004),Comedy|Romance
+54,Nuvvostanante Nenoddantana (2005),Drama|Romance
+55,Chakram (2005),Drama
+56,Aparichithudu (2005),Action|Thriller
+57,Vikramarkudu (2006),Action
+58,Stalin (2006),Action|Drama
+59,Desamuduru (2007),Action|Romance
+60,Yamadonga (2007),Fantasy
+61,Jalsa (2008),Action|Comedy
+62,Arundhati (2009),Fantasy|Horror
+63,Kick (2009),Action|Comedy
+64,Ye Maaya Chesave (2010),Romance
+65,Simha (2010),Action
+66,Brindavanam (2010),Action|Comedy|Drama
+67,Mr. Perfect (2011),Comedy|Romance
+68,Gabbar Singh (2012),Action|Comedy
+69,Seethamma Vakitlo Sirimalle Chettu (2013),Drama|Family
+70,Attarintiki Daredi (2013),Action|Comedy|Drama
+71,Race Gurram (2014),Action|Comedy
+72,Legend (2014),Action
+73,S/O Satyamurthy (2015),Action|Comedy|Drama
+74,Janatha Garage (2016),Action|Drama
+75,Khaidi No. 150 (2017),Action|Drama
+76,Rangasthalam (2018),Drama
+77,Taxiwala (2018),Thriller
+78,Saaho (2019),Action|Thriller
+79,Uppena (2021),Drama|Romance
+80,Sarkaru Vaari Paata (2022),Action|Comedy
+81,Ante Sundaraniki! (2022),Comedy|Romance
+82,Dhamaka (2022),Action|Comedy
+83,Waltair Veerayya (2023),Action|Drama
+84,Veera Simha Reddy (2023),Action|Drama
+85,Dasara (2023),Action|Drama
+86,Virupaksha (2023),Thriller
+87,Baby (2023),Drama|Romance
+88,Bhagavanth Kesari (2023),Action|Drama
+89,Hi Nanna (2023),Drama|Family
+90,HanuMan (2024),Action|Adventure|Fantasy
+91,Guntur Kaaram (2024),Action|Drama
+92,Middle Class Abbayi (MCA) (2017),Comedy|Drama
+93,Prati Roju Pandage (2019),Comedy|Drama
+94,Chal Mohan Ranga (2018),Comedy|Romance
+95,Chalo (2018),Action|Comedy|Romance
+96,Chikati Gadilo Chithakotudu (2019),Comedy|Horror|Romance
+97,Manmadhudu 2 (2019),Comedy|Romance
+98,3 Idiots (2009),Comedy|Drama
+99,Dangal (2016),Biography|Drama|Sport
+100,Bajrangi Bhaijaan (2015),Adventure|Comedy|Drama
+101,PK (2014),Comedy|Drama|Fantasy
+102,Chhichhore (2019),Comedy|Drama
+103,Andhadhun (2018),Crime|Drama|Thriller
+104,Queen (2013),Adventure|Comedy|Drama
+105,Badhaai Ho (2018),Comedy|Drama|Family
+106,Stree (2018),Comedy|Horror
+107,Barfi! (2012),Comedy|Drama|Romance
+108,Bhool Bhulaiyaa (2007),Comedy|Horror|Mystery
+109,Tanu Weds Manu (2011),Comedy|Drama|Romance
+110,Pyaar Ka Punchnama (2011),Comedy|Drama|Romance
+111,Housefull (2010),Comedy
+112,Welcome (2007),Action|Comedy|Crime
+113,Golmaal: Fun Unlimited (2006),Action|Comedy
+114,Hera Pheri (2000),Comedy|Crime
+115,Phir Hera Pheri (2006),Comedy|Crime
+116,Munna Bhai M.B.B.S. (2003),Comedy|Drama
+117,Lage Raho Munna Bhai (2006),Comedy|Drama
+118,De Dana Dan (2009),Comedy
+119,Dream Girl (2019),Comedy|Romance
+120,Bhool Bhulaiyaa 2 (2022),Comedy|Horror|Mystery
+121,Total Dhamaal (2019),Adventure|Comedy
+122,Bhagam Bhag (2006),Comedy|Mystery|Thriller
+123,Partner (2007),Comedy|Romance
+124,Main Hoon Na (2004),Action|Comedy|Drama
+125,Om Shanti Om (2007),Action|Comedy|Drama
+126,Chennai Express (2013),Action|Comedy|Romance
+127,Happy New Year (2014),Action|Comedy|Crime
+128,Dilwale (2015),Action|Comedy|Drama
+129,Jab We Met (2007),Comedy|Drama|Romance
+130,Kabir Singh (2019),Action|Drama|Romance
+131,Shubh Mangal Zyada Saavdhan (2020),Comedy|Romance
+132,Bareilly Ki Barfi (2017),Comedy|Romance
+133,Luka Chuppi (2019),Comedy|Romance
+134,Sonu Ke Titu Ki Sweety (2018),Comedy|Drama|Romance
+135,Pagalpanti (2019),Action|Comedy
+136,Good Newwz (2019),Comedy|Drama
+137,Bala (2019),Comedy|Drama
+138,Pati Patni Aur Woh (2019),Comedy|Romance
+139,Tamasha (2015),Comedy|Drama|Romance
+140,Rockstar (2011),Drama|Music|Romance
+141,Yeh Jawaani Hai Deewani (2013),Comedy|Drama|Romance
+142,2 States (2014),Comedy|Drama|Romance
+143,Kapoor & Sons (2016),Comedy|Drama|Romance
+144,Raazi (2018),Action|Drama|Thriller
+145,Article 15 (2019),Crime|Drama|Thriller
+146,Drishyam (2013),Crime|Drama|Thriller
+147,Drishyam 2 (2022),Crime|Drama|Thriller
+148,Special 26 (2013),Crime|Drama|Thriller
+149,Kaabil (2017),Action|Drama|Romance|Thriller
+150,Raees (2017),Action|Crime|Drama|Thriller
+151,Uri: The Surgical Strike (2019),Action|Drama|Thriller
+152,War (2019),Action|Thriller
+153,Ek Tha Tiger (2012),Action|Thriller
+154,Phantom (2015),Action|Thriller
+155,Gangubai Kathiawadi (2022),Biography|Crime|Drama
+156,Padmaavat (2018),Drama|History|Romance
+157,Bajirao Mastani (2015),Action|Drama|History|Romance
+158,Gully Boy (2019),Drama|Music
+159,Brahmastra: Part One - Shiva (2022),Action|Adventure|Fantasy
+160,The Kashmir Files (2022),Drama|History
+161,Pathaan (2023),Action|Adventure|Thriller
+162,Jawan (2023),Action|Thriller
+163,Animal (2023),Action|Crime|Drama
+164,Rocky Aur Rani Kii Prem Kahaani (2023),Comedy|Drama|Romance
+165,Dunki (2023),Comedy|Drama
+166,Tiger 3 (2023),Action|Adventure|Thriller
+167,Kalank (2019),Drama|Romance
+168,Laal Singh Chaddha (2022),Comedy|Drama|Romance
+169,Sanju (2018),Biography|Drama
+170,Kabhi Khushi Kabhie Gham (2001),Drama|Family|Musical|Romance
+171,Kuch Kuch Hota Hai (1998),Comedy|Drama|Romance
+172,Dilwale Dulhania Le Jayenge (1995),Drama|Romance
+173,Devdas (2002),Drama|Musical|Romance
+174,Lagaan (2001),Adventure|Drama|Sport
+175,Dil Chahta Hai (2001),Comedy|Drama|Romance
+176,Zindagi Na Milegi Dobara (2011),Adventure|Comedy|Drama
+177,Gangs of Wasseypur (2012),Action|Crime|Drama|Thriller
+178,Veer-Zaara (2004),Drama|Family|Musical|Romance
+179,Kal Ho Naa Ho (2003),Comedy|Drama|Romance
+180,Pushpa 2: The Rule (2024),Action|Crime|Drama|Thriller
+181,Salaar: Part 1 - Ceasefire (2023),Action|Drama|Thriller
+182,Kantara (2022),Action|Adventure|Drama|Thriller
+183,Sita Ramam (2022),Drama|Romance|War
+184,Shyam Singha Roy (2021),Drama|Fantasy|Romance|Thriller
+185,Most Eligible Bachelor (2021),Comedy|Drama|Romance
+186,Love Story (2021),Drama|Romance
+187,Vakeel Saab (2021),Action|Drama|Thriller
+188,Jathi Ratnalu (2021),Comedy
+189,Colour Photo (2020),Drama|Romance
+190,Bheeshma (2020),Action|Comedy|Romance
+191,Sarileru Neekevvaru (2020),Action|Comedy
+192,Gang Leader (2019),Action|Comedy|Crime
+193,iSmart Shankar (2019),Action|Sci-Fi|Thriller
+194,Majili (2019),Drama|Romance|Sport
+195,Bangarraju (2022),Comedy|Drama|Fantasy
+196,Maharshi (2019),Action|Drama
+197,Akhanda (2021),Action|Fantasy
+198,Adipurush (2023),Action|Adventure|Drama|Mythology
+199,Ponniyin Selvan: I (2022),Action|Adventure|Drama|Historical
+200,Ponniyin Selvan: II (2023),Action|Adventure|Drama|Historical
+201,Jailer (2023),Action|Comedy|Crime|Thriller
+202,Leo (2023),Action|Crime|Thriller
+203,Vikram (2022),Action|Crime|Thriller
+204,Master (2021),Action|Crime|Thriller
+205,Varisu (2023),Action|Drama|Family
+206,Thunivu (2023),Action|Crime|Thriller
+207,Vettaiyan (2024),Action|Crime|Drama
+208,Indian 2 (2024),Action|Drama|Thriller
+209,Kaithi (2019),Action|Crime|Thriller
+210,Asuran (2019),Action|Crime|Drama
+211,Soorarai Pottru (2020),Biography|Drama
+212,Karnan (2021),Action|Drama
+213,Maanaadu (2021),Action|Sci-Fi|Thriller
+214,Rocketry: The Nambi Effect (2022),Biography|Drama
+215,Sardar (2022),Action|Spy|Thriller
+216,Vaathi (2023),Drama|Action
+217,Viduthalai Part 1 (2023),Action|Crime|Drama
+218,Jigarthanda DoubleX (2023),Action|Comedy|Period
+219,Dada (2023),Drama|Romance
+220,Good Night (2023),Comedy|Drama|Romance
+221,Maamannan (2023),Drama|Political|Thriller
+222,Por Thozhil (2023),Crime|Thriller
+223,Chithha (2023),Drama|Thriller
+224,Mark Antony (2023),Action|Sci-Fi
+225,Pathu Thala (2023),Action|Crime|Drama
+226,Ayalaan (2024),Comedy|Sci-Fi
+227,Captain Miller (2024),Action|Adventure|Period
+228,Laapataa Ladies (2024),Comedy|Drama
+229,Crew (2024),Comedy|Heist|Thriller
+230,Shaitaan (2024),Horror|Thriller
+231,Munjya (2024),Comedy|Horror
+232,Bade Miyan Chote Miyan (2024),Action|Comedy
+233,Maidaan (2024),Biography|Drama|Sport
+234,Stree 2 (2024),Comedy|Horror
+235,Singham Again (2024),Action|Crime
+236,Pushpa 2: The Rule (2024),Action|Crime|Drama|Thriller
+237,Kalki 2898 AD (2024),Action|Adventure|Sci-Fi
+238,Devara: Part 1 (2024),Action|Drama
+239,Game Changer (2024),Action|Drama|Political
+240,Kanguva (2024),Action|Fantasy|Period
+241,Thangalaan (2024),Action|Adventure|Period
+242,Bagheera (2024),Action|Superhero
+243,Raayan (2024),Action|Crime|Drama
+244,Coolie (2024),Action|Drama
+245,Toxic (2024),Action|Thriller
+246,Vishwambhara (2025),Action|Fantasy|Mythology
+247,Thalapathy 69 (2025),Action|Drama
+248,Housefull 5 (2025),Comedy
+249,Bhool Bhulaiyaa 3 (2024),Comedy|Horror|Mystery
+250,Sikandar (2024),Action|Drama
+251,Chhaava (2024),Action|Biography|Historical
+252,Border 2 (2025),Action|War
+253,Welcome To The Jungle (2024),Comedy
+254,Dhadak 2 (2024),Drama|Romance
+255,Hera Pheri 3 (2025),Comedy|Crime
+256,Jolly LLB 3 (2025),Comedy|Drama|Legal
+257,Raid 2 (2024),Crime|Drama|Thriller
+258,Bhakshak (2024),Crime|Drama|Thriller
+259,Yudhra (2024),Action|Thriller
+260,Auron Mein Kahan Dum Tha (2024),Drama|Romance
+261,Sitaare Zameen Par (2024),Drama
+262,Dil Hai Gray (2024),Crime|Thriller
+263,Chhava (2024),Action|Biography|Historical
+264,Lahore 1947 (2024),Drama|Historical
+265,Vicky Vidya Ka Woh Wala Video (2024),Comedy
+266,Bhakshak (2024),Crime|Drama
+267,Maharaj (2024),Biography|Drama|Historical
+268,Mere Mehboob Mere Sanam (2024),Drama|Romance
+269,Chandu Champion (2024),Biography|Drama|Sport
+270,Jigra (2024),Action|Drama
+271,Citadel: Honey Bunny (2024),Action|Spy|Thriller
+272,Deva (2025),Action|Thriller
+273,Krrish 4 (2025),Action|Sci-Fi|Superhero
+274,Don 3 (2025),Action|Crime|Thriller
+275,Dhoom 4 (2025),Action|Crime|Thriller
+276,Brahmastra: Part Two - Dev (2026),Action|Adventure|Fantasy
+277,Baahubali: Before the Beginning (2024),Action|Drama|Fantasy
+278,Pushpa 3 (2026),Action|Crime|Drama|Thriller
+279,KGF: Chapter 3 (2025),Action|Crime|Drama
+280,Kantara: Chapter 1 (2025),Action|Adventure|Drama|Thriller
+281,Allu Arjun's Next with Trivikram (2025),Action|Drama
+282,Prabhas's Next with Hanu Raghavapudi (2025),Action|Romance
+283,Jr NTR's Next with Prashanth Neel (2025),Action|Drama
+284,Ram Charan's Next with Sukumar (2025),Action|Drama
+285,Mahesh Babu's Next with SS Rajamouli (2025),Action|Adventure
+286,Vijay Deverakonda's Next with Gowtam Tinnanuri (2024),Drama|Romance
+287,Naga Chaitanya's Next with Chandoo Mondeti (2024),Action|Drama
+288,Nani's Next with Srikanth Odela (2024),Action|Drama
+289,Ravi Teja's Next with Harish Shankar (2024),Action|Comedy
+290,Chiranjeevi's Next with Bobby (2024),Action|Drama
+291,Pawan Kalyan's Next with Krish (2024),Action|Period
+292,Balakrishna's Next with Boyapati Srinu (2024),Action|Drama
+293,Nagarjuna's Next with Praveen Sattaru (2024),Action|Thriller
+294,Venkatesh's Next with Anil Ravipudi (2024),Action|Comedy
+295,Rana Daggubati's Next with Teja (2024),Action|Drama
+296,Dulquer Salmaan's Next with Hanu Raghavapudi (2024),Romance|Drama
+297,Dhanush's Next with Sekhar Kammula (2024),Drama|Romance
+298,Suriya's Next with Karthik Subbaraj (2024),Action|Drama
+299,Vijay's Next with H. Vinoth (2024),Action|Thriller
+300,Ajith Kumar's Next with Adhik Ravichandran (2024),Action|Thriller|Featured Movies
+301,The Godfather (1972),Crime|Drama
+302,The Shawshank Redemption (1994),Drama
+303,The Dark Knight (2008),Action|Crime|Drama|Thriller
+304,Pulp Fiction (1994),Crime|Drama
+305,Schindler's List (1993),Biography|Drama|History
+306,The Lord of the Rings: The Fellowship of the Ring (2001),Adventure|Drama|Fantasy
+307,The Lord of the Rings: The Two Towers (2002),Adventure|Drama|Fantasy
+308,The Lord of the Rings: The Return of the King (2003),Adventure|Drama|Fantasy
+309,Fight Club (1999),Drama
+310,Forrest Gump (1994),Drama|Romance
+311,Inception (2010),Action|Adventure|Sci-Fi|Thriller
+312,The Matrix (1999),Action|Sci-Fi
+313,Goodfellas (1990),Biography|Crime|Drama
+314,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Fantasy|Sci-Fi
+315,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Fantasy|Sci-Fi
+316,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Fantasy|Sci-Fi
+317,The Silence of the Lambs (1991),Crime|Drama|Thriller
+318,Saving Private Ryan (1998),Drama|War
+319,Interstellar (2014),Adventure|Drama|Sci-Fi
+320,The Green Mile (1999),Crime|Drama|Fantasy
+321,Gladiator (2000),Action|Adventure|Drama
+322,The Departed (2006),Crime|Drama|Thriller
+323,The Prestige (2006),Drama|Mystery|Sci-Fi|Thriller
+324,The Lion King (1994),Adventure|Animation|Drama|Family|Musical
+325,The Usual Suspects (1995),Crime|Mystery|Thriller
+326,Spirited Away (2001),Adventure|Animation|Family|Fantasy
+327,Whiplash (2014),Drama|Music
+328,The Intouchables (2011),Biography|Comedy|Drama
+329,The Pianist (2002),Biography|Drama|Music|War
+330,Parasite (2019),Comedy|Drama|Thriller
+331,Joker (2019),Crime|Drama|Thriller
+332,Avengers: Endgame (2019),Action|Adventure|Drama|Sci-Fi
+333,Avengers: Infinity War (2018),Action|Adventure|Sci-Fi
+334,The Wolf of Wall Street (2013),Biography|Comedy|Crime|Drama
+335,Django Unchained (2012),Drama|Western
+336,Inglourious Basterds (2009),Adventure|Drama|War
+337,The Grand Budapest Hotel (2014),Adventure|Comedy|Crime
+338,The Truman Show (1998),Comedy|Drama
+339,The Sixth Sense (1999),Drama|Mystery|Thriller
+340,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+341,Good Will Hunting (1997),Drama|Romance
+342,Reservoir Dogs (1992),Crime|Drama|Thriller
+343,Casablanca (1942),Drama|Romance|War
+344,Citizen Kane (1941),Drama|Mystery
+345,Vertigo (1958),Mystery|Romance|Thriller
+346,Psycho (1960),Horror|Mystery|Thriller
+347,Rear Window (1954),Mystery|Thriller
+348,North by Northwest (1959),Adventure|Mystery|Thriller
+349,Apocalypse Now (1979),Drama|Mystery|War
+350,2001: A Space Odyssey (1968),Adventure|Sci-Fi
+351,Blade Runner (1982),Action|Drama|Sci-Fi|Thriller
+352,Alien (1979),Horror|Sci-Fi
+353,Aliens (1986),Action|Adventure|Sci-Fi|Thriller
+354,The Terminator (1984),Action|Sci-Fi
+355,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+356,Die Hard (1988),Action|Thriller
+357,Raiders of the Lost Ark (1981),Action|Adventure
+358,Jaws (1975),Adventure|Horror|Thriller
+359,Jurassic Park (1993),Adventure|Sci-Fi|Thriller
+360,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+361,The Breakfast Club (1985),Comedy|Drama
+362,Ferris Bueller's Day Off (1986),Comedy
+363,Groundhog Day (1993),Comedy|Fantasy|Romance
+364,The Princess Bride (1987),Adventure|Comedy|Fantasy|Romance
+365,The Shining (1980),Drama|Horror
+366,A Clockwork Orange (1971),Crime|Drama|Sci-Fi
+367,Full Metal Jacket (1987),Drama|War
+368,Taxi Driver (1976),Crime|Drama
+369,Raging Bull (1980),Biography|Drama|Sport
+370,Goodfellas (1990),Biography|Crime|Drama
+371,Casino (1995),Crime|Drama
+372,The Departed (2006),Crime|Drama|Thriller
+373,Shutter Island (2010),Mystery|Thriller
+374,The Aviator (2004),Biography|Drama
+375,Hugo (2011),Adventure|Drama|Family|Fantasy|Mystery
+376,The Irishman (2019),Biography|Crime|Drama
+377,Memento (2000),Mystery|Thriller
+378,Batman Begins (2005),Action|Adventure
+379,The Dark Knight Rises (2012),Action|Adventure
+380,Dunkirk (2017),Action|Drama|History|Thriller|War
+381,Tenet (2020),Action|Sci-Fi|Thriller
+382,Oppenheimer (2023),Biography|Drama|History
+383,No Country for Old Men (2007),Crime|Drama|Thriller
+384,Fargo (1996),Crime|Drama|Thriller
+385,The Big Lebowski (1998),Comedy|Crime
+386,Inside Llewyn Davis (2013),Comedy|Drama|Music
+387,There Will Be Blood (2007),Drama
+388,The Master (2012),Drama
+389,Phantom Thread (2017),Drama|Romance
+390,Boogie Nights (1997),Drama
+391,Magnolia (1999),Drama
+392,Her (2013),Drama|Romance|Sci-Fi
+393,Lost in Translation (2003),Comedy|Drama
+394,The Social Network (2010),Biography|Drama
+395,Gone Girl (2014),Drama|Mystery|Thriller
+396,Seven (1995),Crime|Drama|Mystery|Thriller
+397,Zodiac (2007),Crime|Drama|Mystery|Thriller
+398,The Girl with the Dragon Tattoo (2011),Crime|Drama|Mystery|Thriller
+399,Mank (2020),Biography|Comedy|Drama
+400,Barbie (2023),Adventure|Comedy|Fantasy
+401,Oppenheimer (2023),Biography|Drama|History
+402,Everything Everywhere All at Once (2022),Action|Adventure|Comedy|Sci-Fi
+403,The Banshees of Inisherin (2022),Comedy|Drama
+404,Top Gun: Maverick (2022),Action|Drama
+405,The Batman (2022),Action|Crime|Drama|Mystery
+406,Dune (2021),Action|Adventure|Drama|Sci-Fi
+407,Dune: Part Two (2024),Action|Adventure|Drama|Sci-Fi
+408,The Whale (2022),Drama
+409,The Fabelmans (2022),Drama
+410,Avatar: The Way of Water (2022),Action|Adventure|Fantasy|Sci-Fi
+411,Killers of the Flower Moon (2023),Crime|Drama|History
+412,Poor Things (2023),Comedy|Drama|Romance|Sci-Fi
+413,The Holdovers (2023),Comedy|Drama
+414,Past Lives (2023),Drama|Romance
+415,Anatomy of a Fall (2023),Crime|Drama|Mystery|Thriller
+416,The Zone of Interest (2023),Drama|History|War
+417,American Fiction (2023),Comedy|Drama
+418,Saltburn (2023),Comedy|Drama|Thriller
+419,Maestro (2023),Biography|Drama|Music
+420,Napoleon (2023),Action|Biography|Drama|History|War
+421,Wonka (2023),Adventure|Comedy|Family|Fantasy|Musical
+422,Godzilla x Kong: The New Empire (2024),Action|Adventure|Sci-Fi
+423,Furiosa: A Mad Max Saga (2024),Action|Adventure|Sci-Fi
+424,Inside Out 2 (2024),Adventure|Animation|Comedy|Drama|Family|Fantasy
+425,Deadpool & Wolverine (2024),Action|Adventure|Comedy
+426,A Quiet Place: Day One (2024),Horror|Sci-Fi|Thriller
+427,Alien: Romulus (2024),Horror|Sci-Fi|Thriller
+428,Gladiator II (2024),Action|Adventure|Drama|History
+429,Joker: Folie à Deux (2024),Crime|Drama|Musical|Thriller
+430,Kingdom of the Planet of the Apes (2024),Action|Adventure|Drama|Sci-Fi
+431,Beetlejuice Beetlejuice (2024),Comedy|Fantasy|Horror
+432,Wicked (2024),Adventure|Family|Fantasy|Musical
+433,Venom: The Last Dance (2024),Action|Adventure|Sci-Fi
+434,Kraven the Hunter (2024),Action|Adventure|Thriller
+435,Thunderbolts (2025),Action|Adventure|Sci-Fi
+436,Captain America: Brave New World (2025),Action|Adventure|Sci-Fi|Thriller
+437,Fantastic Four (2025),Action|Adventure|Sci-Fi
+438,Avengers: The Kang Dynasty (2026),Action|Adventure|Sci-Fi
+439,Avengers: Secret Wars (2027),Action|Adventure|Sci-Fi
+440,Superman (2025),Action|Adventure|Sci-Fi
+441,The Batman Part II (2026),Action|Crime|Drama|Mystery
+442,Blade (2025),Action|Adventure|Horror
+443,Moana 2 (2024),Adventure|Animation|Comedy|Family|Fantasy|Musical
+444,Mufasa: The Lion King (2024),Adventure|Animation|Drama|Family|Musical
+445,Despicable Me 4 (2024),Adventure|Animation|Comedy|Crime|Family
+446,The Lord of the Rings: The War of the Rohirrim (2024),Adventure|Animation|Fantasy
+447,Paddington in Peru (2024),Adventure|Comedy|Family
+448,Ghostbusters: Frozen Empire (2024),Action|Adventure|Comedy|Fantasy
+449,The Fall Guy (2024),Action|Comedy|Thriller
+450,Twisters (2024),Action|Adventure|Drama|Thriller
+451,Nosferatu (2024),Drama|Horror
+452,Mickey 17 (2025),Action|Adventure|Drama|Sci-Fi
+453,Mission: Impossible - The Final Reckoning (2025),Action|Adventure|Thriller
+454,John Wick: Chapter 5 (2026),Action|Crime|Thriller
+455,Knives Out 3 (2025),Comedy|Crime|Drama|Mystery|Thriller
+456,Dune: Messiah (2026),Action|Adventure|Drama|Sci-Fi
+457,Avatar 3 (2025),Action|Adventure|Fantasy|Sci-Fi
+458,Avatar 4 (2029),Action|Adventure|Fantasy|Sci-Fi
+459,Avatar 5 (2031),Action|Adventure|Fantasy|Sci-Fi
+460,The Matrix Resurrections (2021),Action|Sci-Fi
+461,No Time to Die (2021),Action|Adventure|Thriller
+462,Spider-Man: No Way Home (2021),Action|Adventure|Fantasy|Sci-Fi
+463,The Suicide Squad (2021),Action|Adventure|Comedy|Sci-Fi
+464,Black Widow (2021),Action|Adventure|Sci-Fi|Thriller
+465,Shang-Chi and the Legend of the Ten Rings (2021),Action|Adventure|Fantasy
+466,Eternals (2021),Action|Adventure|Fantasy|Sci-Fi
+467,Venom: Let There Be Carnage (2021),Action|Adventure|Sci-Fi|Thriller
+468,F9 (2021),Action|Adventure|Crime|Thriller
+469,A Quiet Place Part II (2021),Drama|Horror|Sci-Fi|Thriller
+470,Godzilla vs. Kong (2021),Action|Adventure|Sci-Fi|Thriller
+471,Cruella (2021),Adventure|Comedy|Crime
+472,Jungle Cruise (2021),Action|Adventure|Comedy|Fantasy
+473,Free Guy (2021),Action|Adventure|Comedy|Sci-Fi
+474,The Conjuring: The Devil Made Me Do It (2021),Horror|Mystery|Thriller
+475,The Mitchells vs. the Machines (2021),Adventure|Animation|Comedy|Family|Sci-Fi
+476,Luca (2021),Adventure|Animation|Comedy|Family|Fantasy
+477,Raya and the Last Dragon (2021),Action|Adventure|Animation|Comedy|Family|Fantasy
+478,Soul (2020),Adventure|Animation|Comedy|Drama|Family|Fantasy|Music
+479,Nomadland (2020),Drama
+480,Promising Young Woman (2020),Crime|Drama|Thriller
+481,Sound of Metal (2020),Drama|Music
+482,Minari (2020),Drama
+483,Judas and the Black Messiah (2021),Biography|Drama|History
+484,The Father (2020),Drama|Mystery
+485,Mank (2020),Biography|Comedy|Drama
+486,One Night in Miami... (2020),Drama
+487,The Trial of the Chicago 7 (2020),Drama|History|Thriller
+488,Da 5 Bloods (2020),Adventure|Drama|War
+489,Ma Rainey's Black Bottom (2020),Drama|Music
+490,News of the World (2020),Action|Adventure|Drama|Western
+491,The Midnight Sky (2020),Drama|Sci-Fi|Thriller
+492,Borat Subsequent Moviefilm (2020),Comedy
+493,Palm Springs (2020),Comedy|Fantasy|Romance
+494,The Invisible Man (2020),Horror|Mystery|Sci-Fi|Thriller
+495,Birds of Prey (2020),Action|Adventure|Comedy|Crime
+496,Tenet (2020),Action|Sci-Fi|Thriller
+497,Wonder Woman 1984 (2020),Action|Adventure|Fantasy
+498,Mulan (2020),Action|Adventure|Drama|Fantasy
+499,Hamilton (2020),Biography|Drama|History|Musical
+500,The King of Staten Island (2020),Comedy|Drama
